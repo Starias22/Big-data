@@ -1,4 +1,4 @@
-# Setting up a Single Node Hadoop Cluster
+# Setting up a Multi Node Hadoop Cluster
 
 ## Prerequisites
 
@@ -6,7 +6,9 @@
 - Java 8
 - Hadoop
 
-## Edit hadoop configuration files
+10.152.85.216
+
+## Check ip address
 
 Hadoop configuration files are in the folder etc/hadoop of hadoop
 

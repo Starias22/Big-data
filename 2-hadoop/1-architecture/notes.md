@@ -49,3 +49,9 @@ It acts like an OS:
 - Schedule tasks to assure tasks are scheduled at the right place.
 
 Client requests are sent to the ressource manager which determines and assign the job to the right server(s). Then, the app master requests the container, which is a collection of resources incluginng RAN, CPU, hard drive, via the Node manager.
+
+![alt text](image.png)
+
+See more on [https://www.geeksforgeeks.org/hadoop-daemons-and-their-features/](https://www.geeksforgeeks.org/hadoop-daemons-and-their-features/)
+
+
