@@ -104,4 +104,4 @@ There are several application fields of big data:
   - Hive is a data warehouse for data querying and analysis.
 
 - **Spark:**
-  - Spark is a framework for distributed complex data analytics.
+  - Spark is a framework for distributed processing of large scale data.

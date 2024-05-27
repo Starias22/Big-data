@@ -51,10 +51,10 @@ wget https://dlcdn.apache.org/hadoop/common/hadoop-3.4.0/hadoop-3.4.0.tar.gz
 
 ## Installing
 
-Assuring the downloaded pacake is in the ``Downloads`` folder, run the following command to extract it
+Run the following command to extract it
 
 ```bash
-tar -xvf  Downloads/hadoop-3.4.0.tar.gz
+tar -xvf  hadoop-3.4.0.tar.gz
 ```
 
 For simplicity, rename the folder from ``hadoop-3.4.0`` to ``hadoop-3.4.0``
@@ -102,3 +102,4 @@ source .bashrc
 ```bash
 hadoop version
 ```
+
