@@ -207,7 +207,7 @@ And no permission is needed for other user
 That is done by using chmod
 
 ```bash
-chmod 400 chmod 400 hadoop_key.pem 
+chmod 400 hadoop_key.pem 
 ```
 
 In 400:
@@ -219,7 +219,7 @@ In 400:
 Run the chmod command 
 
 ```sh
-ls -hadoop_key.pem 
+ls -l hadoop_key.pem 
 ```
 
 You will remark that the permissions have changed effectively
