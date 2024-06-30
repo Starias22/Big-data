@@ -5,9 +5,9 @@ Spark is an open-source framework developed in the Scala programming language fo
 
 It processes data in a distributed way accross clusters of several nodes.
 
-## Components
+## Spark Ecosystem
 
-Spark is made up of five main components:
+Spark Ecosystems is made up of five main components:
 
 - Spark core: The data processing engine of Spark
 
@@ -18,6 +18,8 @@ Spark is made up of five main components:
 - MLlib: This is the ML library of Spark, which includes algorithms for classification, regression, clustering, collaborative filtering, and more.
 
 - GraphX: A library for graph processing and analysis, enabling parallel computation on graph-structured data.
+
+## Spark architecture
 
 ## Advantages
 
